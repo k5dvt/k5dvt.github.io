@@ -3230,7 +3230,7 @@ input, select, textarea {
   position: relative;
   z-index: 1;
   overflow: hidden;
-  border: 5px solid red;
+  /* border: 5px solid red;  */
   background-repeat: no-repeat;
   
 }
@@ -3247,7 +3247,7 @@ input, select, textarea {
 					}
 
 			#wrapper > .bg.fixed {
-				position: ;
+				/* position: ; */
 				width: 100vw;
 				height: 100vh;
 			}
